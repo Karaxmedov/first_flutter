@@ -7,6 +7,7 @@
 *.txt linguist-detectable=false
 *.gradle linguist-detectable=false
 *.txt linguist-detectable=false
+*.swift linguist-detectable=true
 *. linguist-detectable=false
 *.dart linguist-detectable=true
 
